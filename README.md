@@ -163,7 +163,7 @@ Hamcrest is a library of matchers, which can be combined in to create flexible e
 
 * [material-scrolling](https://github.com/satorufujiwara/material-scrolling): Android library for material scrolling techniques.
 
-* [Android-ObservableScrollView](https://github.com/ksoichiro/Androaid-ObservableScrollView): Android library to observe scroll events on scrollable views. http://ksoichiro.github.io/Android-ObservableScrollView/
+* [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView): Android library to observe scroll events on scrollable views. http://ksoichiro.github.io/Android-ObservableScrollView/
 
 * [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout): A custom ViewPager title strip which gives continuous feedback to the user when scrolling
 
