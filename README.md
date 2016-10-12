@@ -1,4 +1,6 @@
-# devfest-tokyo-2016
+# GDG DevFest Tokyo 2016
+
+[ライブラリ対談2016 秋の陣 by Shibuya.apk](https://goo.gl/FnjAZV)
 
 #### 言語系
 * [Kotlin](https://github.com/JetBrains/kotlin): The Kotlin Programming Language http://kotlinlang.org/
